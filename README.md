@@ -1,2 +1,7 @@
-# DK-labyrinthe
-A recreation of a famous arcade game DK labyrinthe
+---
+# StarGame Inc. -- DK-labyrinthe
+## Authors:
+- Mathieu Dario
+## Description:
+- A recreation of a famous arcade game DK labyrinthe
+---
